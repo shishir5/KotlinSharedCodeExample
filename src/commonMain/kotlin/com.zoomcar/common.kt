@@ -1,4 +1,4 @@
-package com.zooomcar
+package com.zoomcar
 
 expect fun platformName(): String
 
